@@ -1,4 +1,13 @@
 .container{
+    margin-top: 20px;
+}
+
+.kal{
+    color: lightgray;
+    font-weight: 700;
+}
+
+.mak{
     margin-top: 100px;
 }
 
@@ -16,6 +25,15 @@
     font-weight: 700;
 }
 
+.cat{
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.left{
+    margin-top: 150px;
+    margin-left: 60px;
+}
 
 .banner{
     margin-top: 80px;
@@ -32,6 +50,7 @@
 .card{
     border: none;
     height: 100%;
+    padding-top: 80px;
     box-shadow: 5px 5px 10px lightgrey;
 }
 
@@ -46,8 +65,14 @@
     text-align: center;
 }
 
+.lastbutton{
+    padding: 5;
+
+}
+
 .card .Buy-now-button{
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .Buy-now-button{
@@ -58,4 +83,19 @@
     padding-right: 20px;
     border-radius: 10%;
     margin-top: 40px;
+}
+
+.card2{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    font-weight: 900;
+    color: black;
+    margin-bottom: 35px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+
+.lastimg{
+    height: 70%;
 }
