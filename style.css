@@ -1,0 +1,61 @@
+.container{
+    margin-top: 100px;
+}
+
+.para{
+    color: lightgrey;
+    margin-top: 20px;
+}
+
+.bg{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.wt{
+    font-weight: 700;
+}
+
+
+.banner{
+    margin-top: 80px;
+}
+
+.card-header{
+    background-color: white;
+    border-bottom: none;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card{
+    border: none;
+    height: 100%;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-text{
+    text-align: center;
+    color: grey;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+    text-align: center;
+}
+
+.card .Buy-now-button{
+    margin-top: 10px;
+}
+
+.Buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10%;
+    margin-top: 40px;
+}
